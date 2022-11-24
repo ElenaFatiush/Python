@@ -6,6 +6,7 @@
 # if num_day > 7 or num_day < 1:
 #     print('Введи цифру от 1 до 7, дружок!')
 # elif 1 <= num_day <= 5:
+# elif 1 <= num_day <= 5:
 #     print('Нет, еще будний день')
 # else:
 #     print("Ура, выходной!")
